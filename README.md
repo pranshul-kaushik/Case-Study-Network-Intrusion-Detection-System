@@ -30,9 +30,8 @@ else 0
 **9 Urgent:** ``Number of urgent packets`` in this connection. Urgent packets are packets with the urgent bit
 activated
 
-![](../media/two.jpg)
-
 ### __CONTENT RELATED FEATURES OF EACH NETWORK CONNECTION VECTOR__
+![](../media/two.jpg)
 
 
 **10 Hot:** Number of „hot‟ indicators in the content such as: ``entering a system directory, creating programs
