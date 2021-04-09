@@ -61,10 +61,8 @@ and executing programs``
 
 **22 Is_guest_login:** 1 if the ``login is a guest``'' login; 0 otherwise
 
-<img src="../media/three.gif" width="1080" height="400" />
-
-
 ### __TIME-RELATED TRAFFIC FEATURES OF EACH NETWORK CONNECTION VECTOR__
+<img src="../media/three.gif" width="1080" height="400" />
 
 **23 Count:** ``Number of connections to the same destination host as the current connection`` in the past two
 seconds
