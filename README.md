@@ -1,3 +1,6 @@
-# Network Intrusion Detection System
+# NETWORK INTRUSION DETECTION
 
-The research in the intrusion detection field has been mostly focused on anomaly-based and misuse-based detection techniques for a long time.  The task to build a network intrusion detection system to detect anomalies and attacks in the network.
+##### This data is KDDCUP’99 data set, which is widely used as one of the few publicly available data sets for network-based anomaly detection systems.
+##### For more about data: http://www.unb.ca/cic/datasets/nsl.html
+
+<img src="../media/acknow.jpg" width="1080" height="400" />
